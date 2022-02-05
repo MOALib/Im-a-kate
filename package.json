@@ -1,0 +1,19 @@
+{
+  "name": "imakate",
+  "version": "1.0.0",
+  "description": "kate module",
+  "main": "imakate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kate",
+    "middleton"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MOALib/Im-a-kate"
+  }
+  "author": "MXPSQL",
+  "license": "MIT"
+}
